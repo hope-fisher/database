@@ -22,8 +22,8 @@
         {
             "title": "Lab 2: Power Up with 23ai SQL Features",
             "description": "Power up with new features in Oracle Database 23ai",
-            "type": "23c-install",
-            "filename": "../../sql-23ai-features/sql-23ai-features.md"
+            "type": "livelabs",
+            "filename": "../../sql-23ai-features/sql-23ai-features-tenancy.md"
         },
         {
             "title": "Lab 3: Leverage SQL Domains",
